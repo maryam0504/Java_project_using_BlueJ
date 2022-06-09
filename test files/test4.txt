@@ -1,0 +1,30 @@
+ 
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
+l
+Input the name of the file to process:  mandA2020.txt
+|Date        |Client      |Service     |Launchpad    |
++------------+------------+------------+--------------
+    18/10/20         ASA        ORBL         KSC
+    21/10/20         ASA       ORBLH        LC40
+    20/10/20         ASA      ORBC3U        LC40
++------------+------------+------------+--------------
+
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+

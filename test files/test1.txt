@@ -1,0 +1,54 @@
+ 
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
+1
+
+enter launche date:23/10/20
+enter client ID:BINC
+enter service code:orblh
+enter orbit:gto
+enter payload value:1900000
+
+Enter Luanch Site:  ksc
+
+Is it a Global Worming Satllite Y/N:y
+Data               :23/10/20
+Client Code        :BINC
+Service Code       :ORBLH
+Orbit              :GTO
+Launch Site        :KSC
+Value of Payload    :1,900,000 
+Global Warm Sat    :Yes
+
+ 
+ -----------------------------------------------------------------
+To         :Byer Private Space Incorporated
+Attention  :Marilyn Hewson
+Client Code:BINC
+ 
+ 
+SpaceW Service Invoice
+
+|Launch        |Orbit         |Site          |Warming       |Service       |Service       |Total         |
+|Date          ||Fees         |Fees          |Tax           |              |Cost          |              |
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|      23/10/20|       120,000|       130,000|       247,000|         orblh|    90,000,000|    90,497,000|                                                                                          |--------------|
+                                                                                               90,497,000|
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+

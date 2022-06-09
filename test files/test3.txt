@@ -1,0 +1,48 @@
+ 
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
+m
+Input the name of the file to process:  mandB2022.txt
+
+ 
+ -----------------------------------------------------------------
+To         :Byer Private Space Incorporated
+Attention  :Marilyn Hewson
+Client Code:BINC
+ 
+ 
+SpaceW Service Invoice
+
+|Launch        |Orbit         |Site          |Warming       |Service       |Service       |Total         |
+|Date          ||Fees         |Fees          |taxammount           |              |Cost          |              |
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|      28/01/22|       120,000|       130,000|             0|        ORBC1U|       500,000|       750,000|
+|      20/01/22|             0|       130,000|             0|        ORBC2U|     1,000,000|     1,130,000|
+|      07/01/22|             0|       130,000|             0|        ORBC3U|     1,400,000|     1,530,000|
+|      10/01/22|             0|             0|             0|        ORBC2U|     1,000,000|     1,000,000|
+|      07/01/22|             0|             0|             0|        ORBC6U|     2,000,000|     2,000,000|
+|      07/01/22|             0|             0|             0|        ORBC6U|     2,000,000|     2,000,000|
+|      27/01/22|             0|             0|             0|         ORBLH|    90,000,000|    90,000,000|
+|      08/01/22|       120,000|             0|       130,000|          ORBL|    62,000,000|    62,250,000|
+|      20/01/22|             0|       130,000|             0|        ORBC2U|     1,000,000|     1,130,000|
+|      20/01/22|             0|       130,000|             0|        ORBC2U|     1,000,000|     1,130,000|
+                                                                                          |--------------|
+                                                                                              162,920,000|
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+

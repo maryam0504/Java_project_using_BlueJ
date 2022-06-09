@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MonthlyInvoice
+comment1.params=
+comment1.target=MonthlyInvoice()
+comment2.params=
+comment2.target=void\ Monthly()
+comment3.params=
+comment3.target=void\ PrintMonthlyInvoice()
+comment4.params=
+comment4.target=void\ ClearData()
+numComments=5

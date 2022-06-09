@@ -1,0 +1,31 @@
+ 
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
+l
+Input the name of the file to process:  mandC2023.txt
+
+Errors in This txt file
+
+|Date        |Client      |Service     |Launchpad    |
++------------+------------+------------+--------------
+    18/10/20        ESAA        ORBL         KSC
++------------+------------+------------+--------------
+
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+

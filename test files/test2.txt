@@ -1,0 +1,41 @@
+ 
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
+m
+Input the name of the file to process:  mandA2020.txt
+
+ 
+ -----------------------------------------------------------------
+To         :Aussie Space Agency
+Attention  :Megan Clock
+Client Code:ASA
+ 
+ 
+SpaceW Service Invoice
+
+|Launch        |Orbit         |Site          |Warming       |Service       |Service       |Total         |
+|Date          ||Fees         |Fees          |taxammount           |              |Cost          |              |
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|      18/10/20|       120,000|       130,000|             0|          ORBL|    62,000,000|    62,250,000|
+|      21/10/20|             0|             0|       273,000|         ORBLH|    90,000,000|    90,273,000|
+|      20/10/20|             0|             0|             0|        ORBC3U|     1,400,000|     1,400,000|
+                                                                                          |--------------|
+                                                                                              153,923,000|
+ 
+
+spaceW helper system
+E- exit
+1- one off invoice
+L- launch schedule
+M- monthly invoice
+D- display teddy bear
+select option: 
+
